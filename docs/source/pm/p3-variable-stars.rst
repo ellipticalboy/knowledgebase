@@ -14,7 +14,7 @@ Observation Planning:
 
     * Observation Time
 
-        * You will be observing a FULL night.
+        * You will be observing HALF a night, but you will be sharing data with the group observing the other half of the night.
 
     * Target Selection
 
@@ -22,7 +22,7 @@ Observation Planning:
 
     * Observations
 
-        * You will observe the variable star in the B,V and R filters over the duration of the night
+        * You and the other group will observe the variable star in the B,V and R filters over the duration of the night
         * If possible, take standard star fields at the start, middle, and end of your observations to allow for calibration to the magnitude scale.
 
     * Tools
